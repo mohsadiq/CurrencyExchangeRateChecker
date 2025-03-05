@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CurrencyExchangeRateChecker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b6615bad54fd4fed3e1bd7a22843cf6a48c5af33")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+faf0d366151b4c0142c7604c89d073a573be0c3d")]
 [assembly: System.Reflection.AssemblyProductAttribute("CurrencyExchangeRateChecker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CurrencyExchangeRateChecker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
