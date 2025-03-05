@@ -48,15 +48,19 @@ dotnet run
 ```
 Currency Exchange Rate Checker
 
-Enter the base currency code (e.g., USD, EUR, GBP) or 'exit' to quit: USD
+Enter the base currency code (e.g., GBP, EUR, USD) or 'exit' to quit: GBP
 
-Exchange Rates for USD:
-1 USD = 0.9234 EUR
-1 USD = 0.7654 GBP
-1 USD = 110.23 JPY
+Exchange Rates for GBP:
+1 GBP = 1.2756 USD
+1 GBP = 1.2063 EUR
+1 GBP = 189.9704 JPY
+1 GBP = 1.8414 CAD
+1 GBP = 2.0436 AUD
+1 GBP = 1.1359 CHF
+1 GBP = 9.2647 CNY
 ...
 
-Enter the base currency code (e.g., USD, EUR, GBP) or 'exit' to quit: exit
+Enter the base currency code (e.g., GBP, EUR, USD) or 'exit' to quit: exit
 ```
 
 ## API Used
