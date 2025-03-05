@@ -15,7 +15,7 @@ class Program
         
         while (true)
         {
-            Console.Write("\nEnter the base currency code (e.g., USD, EUR, GBP) or 'exit' to quit: ");
+            Console.Write("\nEnter the base currency code (e.g., GBP, EUR, USD) or 'exit' to quit: ");
             string baseCurrency = Console.ReadLine().ToUpper();
 
             if (baseCurrency == "EXIT")
@@ -52,7 +52,7 @@ class Program
                 Console.WriteLine($"\nExchange Rates for {baseCurrency}:");
                 
                 // Display top currencies
-                string[] topCurrencies = { "USD", "EUR", "GBP", "JPY", "CAD", "AUD", "CHF", "CNY" };
+                string[] topCurrencies = { "GBP", "EUR", "USD", "JPY", "CAD", "AUD", "CHF", "CNY" };
                 
                 foreach (string currency in topCurrencies)
                 {
